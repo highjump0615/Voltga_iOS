@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>263D8281-87A2-416E-AFC2-ACBEB4A3E84A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Voltga</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E0E1F34B-2294-4144-BC17-2932BD486C4F</key>
+		<string>https://10.70.1.1:8443/svn/TMMOBILE/IOS/SERVICE/SOCIAL/VOLTGA</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/v1/Voltga/Voltga.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E0E1F34B-2294-4144-BC17-2932BD486C4F</key>
+		<string>../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>E0E1F34B-2294-4144-BC17-2932BD486C4F</key>
+		<string>https://10.70.1.1:8443/svn/TMMOBILE</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://10.70.1.1:8443/svn/TMMOBILE/IOS/SERVICE/SOCIAL/VOLTGA/v1/ios/workfield/Voltga/Voltga.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E0E1F34B-2294-4144-BC17-2932BD486C4F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E0E1F34B-2294-4144-BC17-2932BD486C4F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Voltga</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "__36-[SignupViewController onClickDone:]_block_invoke:SignupViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[((GlobalData*)[GlobalData sharedData]).g_selfUser.user_id stringValue]">
+            </PersistentString>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_selfUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PeopleViewController fnInitialize:]:PeopleViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_selfUser.user_place_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeveyTabBar initWithFrame:buttonImages:]:LeveyTabBar.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "width * 3 + width / 2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlaceViewController OnClickHere:]:PlaceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_currentPlace">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignupViewController OnClickAvatar:]:SignupViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_m_imgAvatar.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[PlaceViewController OnClickHere:]_block_invoke:PlaceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_selfUser.user_place_id">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LeveyTabBarController initWithViewControllers:imageArray:]:LeveyTabBarController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_containerView.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserInfoViewController viewDidLoad]:UserInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobalData sharedData]).g_selectedUser.user_publicpicture">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController gotoMainViewController:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[NSUserDefaults standardUserDefaults] boolForKey:SIGNUP_SUCCESS]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[UserInfoViewController onClickAction:]:UserInfoViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*) [GlobalData sharedData]).g_selfUser">
+            </PersistentString>
+            <PersistentString
+               value = "((GlobalData*) [GlobalData sharedData]).g_selectedUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SignupViewController onClickDone:]:SignupViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_strDeviceToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlaceViewController tableView:cellForRowAtIndexPath:]:PlaceViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_selfUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__41-[ViewController gotoMainViewController:]_block_invoke:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "((GlobalData*)[GlobalData sharedData]).g_selfUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
